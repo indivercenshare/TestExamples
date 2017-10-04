@@ -10,5 +10,7 @@ public class Main {
 	
 	public Main() {
 		System.out.println("Git testing");
+		System.out.println("Git testing1");
+		System.out.println("Git testing2");
 	}
 }
