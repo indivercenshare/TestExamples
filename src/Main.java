@@ -16,5 +16,6 @@ public class Main {
 		System.out.println("Git testing4");
 		System.out.println("Git testing5");
 		System.out.println("Git testing6commit");
+		System.out.println("Git testing7");
 	}
 }
